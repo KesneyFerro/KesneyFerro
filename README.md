@@ -16,7 +16,7 @@ I believe my projects are made with all my heart in order to make a truthful imp
 - **Name:** Kesney Lucas
 - **Age:** 17
 - **Living in:** São Paulo, Brazil
-- **University:** Freshman majoring in Software Engineering @ Inteli (Institute of Technology and Leadership)
+
 
 
 ## 🤝 Let's Connect
