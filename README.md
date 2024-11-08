@@ -7,7 +7,7 @@ It is a pleasure to have you here in my profile. Feel free to navigate my little
 
 ## :scroll: Public information
 
-My name is Kesney Lucas Ferro. I am a freelancer and a full-stack developer, currently based in Brazil, with a passion for applying my knowledge to solve real-life problems by building unique products.
+My name is Kesney Lucas Ferro. I am a freelancer and a full-stack developer, currently studying at Vanderbilt University in the USA, with a passion for applying my knowledge to solve real-life problems by building unique products.
 
 I believe my projects are made with all my heart in order to make a truthful impact.
 
@@ -15,7 +15,7 @@ I believe my projects are made with all my heart in order to make a truthful imp
 
 - **Name:** Kesney Lucas
 - **Age:** 18
-- **Living in:** São Paulo, Brazil
+- **Living in:** São Paulo, Brazil - Tennessee, USA
 
 
 
