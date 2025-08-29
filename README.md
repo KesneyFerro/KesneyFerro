@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm <strong>Kesney Lucas</strong> 👋</h1>
 <p align="center">
-  Full-stack & AI developer • Vanderbilt University (CS, Neuroscience) = Building tech for social impact
+  Full-stack & AI developer • Vanderbilt University (CS, Neuroscience, Math and Data Science) = Building tech for social impact
 </p>
 
 ---
